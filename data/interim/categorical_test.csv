@@ -1,0 +1,62 @@
+,test,number of categories,rejected_null_hypothesis
+property_type_simple,Kruskal-Wallis,4.0,yes
+room_type,Kruskal-Wallis,3.0,yes
+bed_type,Kruskal-Wallis,5.0,yes
+city_fsa,Kruskal-Wallis,9.0,yes
+cancellation_policy,Kruskal-Wallis,4.0,yes
+instant_bookable,MannWhitneyU,2.0,yes
+is_business_travel_ready,MannWhitneyU,1.0,NA
+host_response_time,Kruskal-Wallis,5.0,yes
+host_is_superhost,MannWhitneyU,2.0,yes
+host_has_profile_pic,MannWhitneyU,2.0,yes
+host_identity_verified,MannWhitneyU,2.0,yes
+elevator,MannWhitneyU,2.0,yes
+pets allowed,MannWhitneyU,2.0,yes
+paid parking off premises,MannWhitneyU,2.0,yes
+cable tv,MannWhitneyU,2.0,yes
+cooking basics,MannWhitneyU,2.0,yes
+dishes and silverware,MannWhitneyU,2.0,yes
+carbon monoxide detector,MannWhitneyU,2.0,yes
+lockbox,MannWhitneyU,2.0,yes
+private living room,MannWhitneyU,2.0,no
+keypad,MannWhitneyU,2.0,yes
+patio or balcony,MannWhitneyU,2.0,yes
+iron,MannWhitneyU,2.0,yes
+hangers,MannWhitneyU,2.0,yes
+garden or backyard,MannWhitneyU,2.0,yes
+long term stays allowed,MannWhitneyU,2.0,yes
+shampoo,MannWhitneyU,2.0,yes
+laptop friendly workspace,MannWhitneyU,2.0,yes
+translation missing: en.hosting_amenity_49,MannWhitneyU,2.0,yes
+host greets you,MannWhitneyU,2.0,yes
+tv,MannWhitneyU,2.0,yes
+hot tub,MannWhitneyU,2.0,yes
+self check-in,MannWhitneyU,2.0,yes
+internet,MannWhitneyU,2.0,yes
+lock on bedroom door,MannWhitneyU,2.0,yes
+dryer,MannWhitneyU,2.0,yes
+air conditioning,MannWhitneyU,2.0,yes
+extra pillows and blankets,MannWhitneyU,2.0,yes
+free parking on premises,MannWhitneyU,2.0,yes
+hot water,MannWhitneyU,2.0,yes
+fire extinguisher,MannWhitneyU,2.0,yes
+bathtub,MannWhitneyU,2.0,yes
+microwave,MannWhitneyU,2.0,yes
+stove,MannWhitneyU,2.0,yes
+private entrance,MannWhitneyU,2.0,yes
+pool,MannWhitneyU,2.0,yes
+safety card,MannWhitneyU,2.0,yes
+coffee maker,MannWhitneyU,2.0,yes
+oven,MannWhitneyU,2.0,yes
+dishwasher,MannWhitneyU,2.0,yes
+paid parking on premises,MannWhitneyU,2.0,yes
+washer,MannWhitneyU,2.0,yes
+hair dryer,MannWhitneyU,2.0,yes
+luggage dropoff allowed,MannWhitneyU,2.0,no
+first aid kit,MannWhitneyU,2.0,no
+translation missing: en.hosting_amenity_50,MannWhitneyU,2.0,yes
+family/kid friendly,MannWhitneyU,2.0,yes
+bed linens,MannWhitneyU,2.0,yes
+refrigerator,MannWhitneyU,2.0,yes
+no stairs or steps to enter,MannWhitneyU,2.0,yes
+gym,MannWhitneyU,2.0,yes
