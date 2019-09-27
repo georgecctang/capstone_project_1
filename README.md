@@ -1,6 +1,6 @@
 # Capstone Project #1 - Predicting Nightly Price of Toronto's Airbnb Listings 
 
-**Please go to the *reports* folder for Project Report and Presentation**
+**Please go to the *reports* folder for Project Report and Summary Presentation**
 
 This is the project folder for Capstone Project #1 - Predicting Nightly Price of Toronto's Airbnb Listings  
 
