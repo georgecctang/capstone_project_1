@@ -12,7 +12,7 @@ By thoroughly examine Toronto's Airbnb market dataset, we will identify the impo
 
 ## Link to Project Report and Presentation
 - The [project report](https://github.com/georgecctang/capstone_project_1/blob/master/reports/George_CP1_Final_Report.pdf) provides  detailed descriptions of all the tasks and findings of this project.
-- The [presentation](https://github.com/georgecctang/capstone_project_1/blob/master/reports/George_CP1_Presentation.pdf) provides a quick overview of the project.
+- The [presentation](https://github.com/georgecctang/capstone_project_1/blob/master/reports/George_CP1_Presentation.pdf) provides an overview of the project.
 
 ## Project Folder Directory
 This project folder consists of the following sub-folders:
