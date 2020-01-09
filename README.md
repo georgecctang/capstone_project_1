@@ -17,6 +17,6 @@ By thoroughly examine Toronto's Airbnb market dataset, we will identify the impo
 ## Project Folder Directory
 This project folder consists of the following sub-folders:
 - [data](https://github.com/georgecctang/capstone_project_1/tree/master/data) contains the raw Toronto Airbnb's listing data and the processed data for machine learning
-- [notebooks](https://github.com/georgecctang/capstone_project_1/tree/master/notebooks) contains the Jupyter notebooks that contains the codes for data cleaning, 
+- [notebooks](https://github.com/georgecctang/capstone_project_1/tree/master/notebooks/final_report) contains the Jupyter notebooks that contains the codes for data cleaning, 
 - [reports](https://github.com/georgecctang/capstone_project_1/tree/master/reports) contains the project report and presentation
 - [models](https://github.com/georgecctang/capstone_project_1/tree/master/models) contains the best machine learning model obtained from this project
