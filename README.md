@@ -1,5 +1,9 @@
 # Predicting Nightly Price of Toronto's Airbnb Listings 
 
+## Link to Project Report and Presentation
+- The [project report](https://github.com/georgecctang/capstone_project_1/blob/master/reports/George_CP1_Final_Report.pdf) provides  detailed descriptions of all the tasks and findings of this project.
+- The [presentation](https://github.com/georgecctang/capstone_project_1/blob/master/reports/George_CP1_Presentation.pdf) provides an overview of the project.
+
 ## Objectives
 The objectives of is project are:
 -	To explore and analyze Airbnb’s listings in Toronto, Canada
@@ -10,9 +14,6 @@ The objectives of is project are:
 ## Significance  
 By thoroughly examine Toronto's Airbnb market dataset, we will identify the important features that affect pricing, which the hosts can use as a reference to modify their properties or booking policy. We will also develop machine learning models that can be used by the hosts to set fair and competitive prices.
 
-## Link to Project Report and Presentation
-- The [project report](https://github.com/georgecctang/capstone_project_1/blob/master/reports/George_CP1_Final_Report.pdf) provides  detailed descriptions of all the tasks and findings of this project.
-- The [presentation](https://github.com/georgecctang/capstone_project_1/blob/master/reports/George_CP1_Presentation.pdf) provides an overview of the project.
 
 ## Project Folder Directory
 This project folder consists of the following sub-folders:
